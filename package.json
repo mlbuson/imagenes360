@@ -1,0 +1,35 @@
+{
+  "name": "image360viewer",
+  "description": "The 360 image viewer for react native",
+  "author": "Lautaro buson <busonlautaro@gmail.com> (https://www.linkedin.com/in/lautaro-buson-1ab861129/)",
+  "version": "1.4.7",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "360-image-viewer",
+    "360-image-react-native",
+    "rn-360-image-viewer",
+    "react-native-image-viewer",
+    "react-component"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigorgtic/image360viewer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rodrigorgtic/image360viewer/issues"
+  },
+  "homepage": "https://github.com/rodrigorgtic/image360viewer/blob/master/README.md",
+  "peerDependencies": {
+    "react-native": ">=0.42.0",
+    "react": ">=16.9.35",
+    "react-native-svg": ">=12.1.1"
+  },
+  "dependencies": {
+    "normalize-svg-path": "^1.1.0",
+    "parse-svg-path": "^0.1.2",
+    "abs-svg-path": "^0.1.1"
+  }
+}
